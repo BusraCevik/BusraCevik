@@ -7,7 +7,7 @@
 
 ### 💫 About Me
 
-I'm a Software Engineer with a strong background in web development and a growing academic focus on **Artificial Intelligence and Data Science**.
+I'm a Software Engineer currently working on projects in **Artificial Intelligence and Data Science**.
 
 - 🎓 B.Sc. in Software Engineering  
 - 🌍 Erasmus+ experience  
