@@ -1,6 +1,13 @@
 <h1 align="center">Hi, I'm Büşra ⋆˚✮˖°⋆｡🖥️˖ ࣪ 👩🏻‍💻⊹⋆.˚</h1>
+
 <p align="center">
   <em>Software Engineer | MSc Student in AI & Data Science</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BusraCevik/data-science-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
