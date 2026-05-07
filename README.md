@@ -13,7 +13,7 @@ I'm a Software Engineer currently working on projects in **Artificial Intelligen
 - 🌍 Erasmus+ experience  
 - 🎓 Currently pursuing a Master’s degree in **Artificial Intelligence & Data Science**
 - 🧠 Interested in data-driven systems, backend development, and applied AI  
-- 💡 I use GitHub to document my learning journey and build focused, meaningful projects
+- 💡 I use GitHub to document my journey
 
 ---
 
