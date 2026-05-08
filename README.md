@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BusraCevik/data-science-portfolio" target="_blank">
+  <a href="https://github.com/BusraCevik/ai-and-data-science-portfolio-busracevik" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
